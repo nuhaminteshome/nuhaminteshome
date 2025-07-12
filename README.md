@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 Senior at George Mason University, studying Information Technology with a minor in Data Analytics
+🔭 Aspiring Data Analyst and Data Scientist
+
+
