@@ -48,15 +48,10 @@ Built a logistic regression model to predict whether a host is a superhost using
 
 ---
 
-### 💼 [Employee Satisfaction Dashboard](https://github.com/yourusername/Employee-Satisfaction-Analysis)
-Analyzed employee satisfaction survey data using SQL and visualized insights in Python.  
+### 💼 [Employee Satisfaction Project](https://github.com/yourusername/Employee-Satisfaction-Analysis)
+Analyzed employee satisfaction survey data using SQL.  
 **Tech Stack:**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=flat" alt="Seaborn" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" alt="Matplotlib" />  
-
 **Learnings:** EDA, data storytelling, using JOINS and GROUP BY for business insights
 
 ---
