@@ -27,6 +27,10 @@ I'm passionate about turning data into actionable insights and solve real-world 
 ### ☁️ Cloud & Tools
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
+### 🛠️ Development Tools
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+
 ---
 
 ## 🚀 Projects
