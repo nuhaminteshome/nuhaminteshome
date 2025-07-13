@@ -48,7 +48,7 @@ Built a logistic regression model to predict whether a host is a superhost using
 
 ---
 
-### 💼 [Employee Satisfaction Project](https://github.com/yourusername/Employee-Satisfaction-Analysis)
+### 💼 [Employee Satisfaction Project](https://github.com/nuhaminteshome/Employee-Satisfaction-Survey-Analysis-SQL)
 Analyzed employee satisfaction survey data using SQL.  
 **Tech Stack:**  
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
