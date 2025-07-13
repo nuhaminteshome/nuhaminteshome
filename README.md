@@ -1,12 +1,15 @@
-# Hi there 👋, I'm Nuhamin Teshome
+# Hi there 👋, I'm Nuhamin!
 
-🎓 I'm a student passionate about turning data into actionable insights and building smart solutions with machine learning. My main interests lie in **data science**, **data analytics**, and **machine learning**, and I love working on real-world projects that combine technical skill with creative problem-solving.
+🎓 Senior at George Mason University, studying Information Technology with a minor in Data Analytics
+🔭 Aspiring Data Scientist and Data Analyst
+
+I'm passionate about turning data into actionable insights and solve real-world problems using data. My main interests lie in **data science**, **data analytics**, and **machine learning**, and I enjoy working on projects that combine technical skills with practical applications.
 
 ---
 
 ## 🚀 Technical Skills
 
-### 🐍 Programming & Scripting
+### 🐍 Programming 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -23,39 +26,63 @@
 
 ### ☁️ Cloud & Tools
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## 💻 What I'm Working On
-- Developing data-driven projects using real-world datasets
-- Exploring predictive modeling and classification problems with Scikit-learn
-- Practicing EDA and visualization to make complex data easier to understand
-- Using SQL for database querying and R for statistical analysis
+## 🚀 Projects
+
+
+### 🏡 [Airbnb Superhost Prediction](https://github.com/yourusername/Airbnb-Superhost-Prediction)
+Built a logistic regression model to predict whether a host is a superhost using listing features.  
+**Tech Stack:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" alt="Matplotlib" />  
+
+**Learnings:** Model evaluation (AUC, precision-recall), feature engineering, hyperparameter tuning
 
 ---
 
-## 📈 Recent Projects
-- 🔍 **Airbnb Superhost Prediction** – Built a logistic regression model to predict superhosts using Scikit-learn, achieving an AUC of 0.84.
-- 📊 **Employee Satisfaction Analysis** – Analyzed survey data using SQL to identify trends and department-level insights.
-- 🗺️ **Rural Transportation Access** – Conducted data cleaning and visualization in Python to analyze access to public transportation across rural U.S. counties.
+### 💼 [Employee Satisfaction Dashboard](https://github.com/yourusername/Employee-Satisfaction-Analysis)
+Analyzed employee satisfaction survey data using SQL and visualized insights in Python.  
+**Tech Stack:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=flat" alt="Seaborn" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" alt="Matplotlib" />  
+
+**Learnings:** EDA, data storytelling, using JOINS and GROUP BY for business insights
+
+---
+
+### 🚌 [Rural Transportation Access Analysis](https://github.com/yourusername/Rural-Transportation-Access)
+Analyzed access to transportation services across rural counties in the U.S.  
+
+**Tech Stack:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=flat" alt="Seaborn" />
+<img src="https://img.shields.io/badge/AWS%20Athena-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Athena" />
+<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazon-aws&logoColor=white" alt="AWS S3" />
+
+**Learnings:** Box plot creation, time - series plots, cloud-based querying with Athena, interpreting access levels across dimensions (bus, rail, air)
 
 ---
 
 ## 🌱 Currently Learning
 - Advanced machine learning algorithms (e.g., random forests, XGBoost)
 - Deep learning fundamentals and neural networks
-- Dashboard creation using tools like Tableau or Streamlit
+- Dashboard creation using tools like Tableau or PowerBI
 
 ---
 
 ## 📫 Let's Connect!
-I'm always open to collaboration, mentorship, and project ideas. Feel free to connect:
-
-- 📧 [Your email or contact method]
-- 💼 [LinkedIn profile link]
-- 🌐 [Portfolio or personal site, if available]
+- 📧 nuhaminteshom@gmail.com
+- 💼 https://www.linkedin.com/in/nuhamin-teshome/
 
 ---
 
