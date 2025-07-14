@@ -36,7 +36,7 @@ I'm passionate about turning data into actionable insights and solving real-worl
 ## 🚀 Projects
 
 
-### 🏡 [Airbnb Superhost Prediction](https://github.com/yourusername/Airbnb-Superhost-Prediction)
+### 🏡 [Airbnb Superhost Prediction](ModelSelectionForLogisticRegression.ipynb)
 Built a logistic regression model to predict whether a host is a superhost using listing features.  
 **Tech Stack:**  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
@@ -56,7 +56,7 @@ Analyzed employee satisfaction survey data using SQL.
 
 ---
 
-### 🚌 [Rural Transportation Access Analysis](https://github.com/yourusername/Rural-Transportation-Access)
+### 🚌 [Rural Transportation Access Analysis]()
 Analyzed access to transportation services across rural counties in the U.S.  
 
 **Tech Stack:**  
