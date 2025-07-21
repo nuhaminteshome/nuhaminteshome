@@ -56,22 +56,6 @@ Analyzed employee satisfaction survey data using SQL.
 
 ---
 
-### 🚌 [Rural Transportation Access Analysis]()
-Analyzed access to transportation services across rural counties in the U.S.  
-
-**Tech Stack:**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=flat" alt="Seaborn" />
-<img src="https://img.shields.io/badge/AWS%20Athena-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Athena" />
-<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazon-aws&logoColor=white" alt="AWS S3" />
-
-**Learnings:** Box plot creation, time - series plots, cloud-based querying with Athena, interpreting access levels across dimensions (bus, rail, air)
-
----
-
 ## 🌱 Currently Learning
 - Advanced machine learning algorithms (e.g., random forests, XGBoost)
 - Deep learning fundamentals and neural networks
