@@ -47,7 +47,7 @@ Built a logistic regression model to predict whether a host is a superhost using
 **Learnings:** Model evaluation (AUC, precision-recall), feature engineering, hyperparameter tuning
 
 ---
-### 🚌 [Rural Transportation Access Analysis](https://github.com/yourusername/Rural-Transportation-Access)
+### 🚌 [Rural Transportation Access Analysis](https://github.com/nuhaminteshome/Rural-Transportation-Access-Analysis)
 Analyzed access to transportation services across rural counties in the U.S.  
 
 **Tech Stack:**  
