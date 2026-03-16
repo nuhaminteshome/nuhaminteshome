@@ -27,7 +27,6 @@ I'm passionate about turning data into actionable insights and solving real-worl
 ### 📊 Data Visualization
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-```
 
 ### ☁️ Cloud & Tools
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
