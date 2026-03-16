@@ -35,6 +35,16 @@ I'm passionate about turning data into actionable insights and solving real-worl
 
 ## 🚀 Projects
 
+### 📊 [Customer Churn & Revenue Analysis](https://github.com/nuhaminteshome/cloudtask-churn-analysis)
+Conducted an end-to-end analysis of customer churn and unit economics for a fictional SaaS company with 600 customers across 4 years.
+
+**Tech Stack:**  
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black" alt="DAX" />
+
+
+**Learnings:** Star schema modelling, DAX time intelligence, USERELATIONSHIP, CLV:CAC analysis, churn segmentation
 
 ### 🏡 [Airbnb Superhost Prediction](https://github.com/nuhaminteshome/My-Cornell-Portfolio)
 Built a logistic regression model to predict whether a host is a superhost using listing features.  
