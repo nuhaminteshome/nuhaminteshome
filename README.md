@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Nuhamin!
 
-🎓 Senior at George Mason University, studying Information Technology with a minor in Data Analytics
+🎓 Information Technology Graduate from George Mason University with a minor in Data Analytics.
 
 I'm passionate about turning data into actionable insights and solving real-world problems using data. My main interests lie in **data science**, **data analytics**, ,**business analytics** and **machine learning**, and I enjoy working on projects that combine technical skills with practical applications.
 
