@@ -5,15 +5,48 @@
 I'm passionate about turning data into actionable insights and solving real-world problems using data. My main interests lie in **data science**, **data analytics**, ,**business analytics** and **machine learning**, and I enjoy working on projects that combine technical skills with practical applications.
 
 ---
-🎯 Featured Project: USPS Service Performance Insights Across Rural America (for USPS OIG) (https://github.com/nuhaminteshome/USPS-Service-Performance-Analysis)
+# 🎯 Featured Project
 
-What We Did: Built an end-to-end data engineering pipeline to process ~2.5 billion USPS delivery records. Implemented large-scale ETL using Python and PySpark, joined USPS operational data with RUCA classification codes, and analyzed rural vs. urban delivery performance across geography, mail types, and regions.
+## 📬 USPS Service Performance Insights Across Rural America
 
-Tools: Python, PySpark, SQL, Azure Synapse, Azure Blob Storage, Azure Data Lake, Power BI  
+### *USPS OIG Challenge X Final Project*
 
-Result: Result: Showed that rural and urban areas have comparable delivery performance despite rural regions handling a much smaller share of total mail volume, indicating that service disparities are not primarily driven by geography..
+🔗 **Project Repository:**
+https://github.com/nuhaminteshome/USPS-Service-Performance-Analysis
 
-Curious? See the full project here (https://github.com/nuhaminteshome/USPS-Service-Performance-Analysis)
+### 🚀 What We Built
+
+* Built an end-to-end data engineering pipeline to process **~2.5 billion USPS delivery records**
+* Developed large-scale ETL workflows using **Python** and **PySpark**
+* Joined USPS operational data with **RUCA classification codes** to classify ZIP codes as urban or rural
+* Analyzed delivery performance across:
+
+  * 🏙️ Geography (urban vs. rural)
+  * 📦 Mail product types
+  * 🗺️ USPS districts and regions
+
+### 🛠️ Tools
+
+* Python
+* PySpark
+* SQL
+* Azure Synapse
+* Azure Blob Storage
+* Azure Data Lake
+* Power BI
+
+### 📈 Key Finding
+
+* Rural areas demonstrated **comparable delivery performance to urban areas** despite handling a much smaller share of total mail volume.
+* Findings suggest that service disparities are driven more by **mail type and regional operations** than by geography alone.
+
+### 🔍 Curious?
+
+Check out the full project repository for the data pipeline architecture, cloud infrastructure design, and dashboard analysis.
+
+👉 **Project Link:**
+https://github.com/nuhaminteshome/USPS-Service-Performance-Analysis
+
 
 ## 🚀 Technical Skills
 
