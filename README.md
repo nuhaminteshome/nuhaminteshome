@@ -16,25 +16,24 @@ https://github.com/nuhaminteshome/USPS-Service-Performance-Analysis
 
 ### 🚀 What We Built
 
-* Built an end-to-end data engineering pipeline to process **~2.5 billion USPS delivery records**
-* Developed large-scale ETL workflows using **Python** and **PySpark**
-* Joined USPS operational data with **RUCA classification codes** to classify ZIP codes as urban or rural
-* Analyzed delivery performance across:
-
-  * 🏙️ Geography (urban vs. rural)
-  * 📦 Mail product types
-  * 🗺️ USPS districts and regions
-
+- Built an end-to-end data engineering pipeline to process **~2.5 billion USPS delivery records**
+- Developed large-scale ETL workflows using **Python** and **PySpark**
+- Joined USPS operational data with **RUCA classification codes** to classify ZIP codes as urban or rural
+- Analyzed delivery performance across:
+  - 🏙️ Geography (urban vs. rural)
+  - 📦 Mail product types
+  - 🗺️ USPS districts and regions
 
 ### 🛠️ Tools
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/-Azure%20Synapse-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure Blob Storage](https://img.shields.io/badge/-Azure%20Blob%20Storage-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure Data Lake](https://img.shields.io/badge/-Azure%20Data%20Lake-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
 ### 📈 Key Finding
 
 * Rural areas demonstrated **comparable delivery performance to urban areas** despite handling a much smaller share of total mail volume.
