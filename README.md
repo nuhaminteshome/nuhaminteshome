@@ -41,13 +41,10 @@ https://github.com/nuhaminteshome/USPS-Service-Performance-Analysis
 
 ### 🔍 Curious?
 
-Check out the full project repository for the data pipeline architecture, cloud infrastructure design, and dashboard analysis.
-
-👉 **Project Link:**
-https://github.com/nuhaminteshome/USPS-Service-Performance-Analysis
+Check out the full project repository: https://github.com/nuhaminteshome/USPS-Service-Performance-Analysis
 
 
-## 🚀 Technical Skills
+# 🚀 Technical Skills
 
 ### 🐍 Programming 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -77,7 +74,7 @@ https://github.com/nuhaminteshome/USPS-Service-Performance-Analysis
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
 ### 📊 [Customer Churn & Revenue Analysis](https://github.com/nuhaminteshome/cloudtask-churn-analysis)
 Conducted an end-to-end analysis of customer churn and unit economics for a fictional SaaS company with 600 customers across 4 years.
