@@ -5,6 +5,15 @@
 I'm passionate about turning data into actionable insights and solving real-world problems using data. My main interests lie in **data science**, **data analytics**, ,**business analytics** and **machine learning**, and I enjoy working on projects that combine technical skills with practical applications.
 
 ---
+🎯 Featured Project: USPS Service Performance Insights Across Rural America (for USPS OIG) (https://github.com/nuhaminteshome/USPS-Service-Performance-Analysis)
+
+What We Did: Built an end-to-end data engineering pipeline to process ~2.5 billion USPS delivery records. Implemented large-scale ETL using Python and PySpark, joined USPS operational data with RUCA classification codes, and analyzed rural vs. urban delivery performance across geography, mail types, and regions.
+
+Tools: Python, PySpark, SQL, Azure Synapse, Azure Blob Storage, Azure Data Lake, Power BI  
+
+Result: Result: Showed that rural and urban areas have comparable delivery performance despite rural regions handling a much smaller share of total mail volume, indicating that service disparities are not primarily driven by geography..
+
+Curious? See the full project here (https://github.com/nuhaminteshome/USPS-Service-Performance-Analysis)
 
 ## 🚀 Technical Skills
 
